@@ -47,3 +47,21 @@ The dashboard provides insights into sales performance, profitability, product t
 - Region-wise and state-wise sales visualization
 - Shipping type performance breakdown
 - Interactive filters (Segment)
+
+---
+
+ 🚀 How to Use
+1. Download the repository
+2. Open the `.pbix` file using Power BI Desktop
+3. Explore interactive visuals and filters
+
+---
+
+ 👨‍💻 About Me
+Aspiring Data Analyst skilled in SQL, Power BI, and Data Visualization.  
+Passionate about solving business problems using data.
+
+---
+
+ 📬 Connect With Me
+LinkedIn: https://www.linkedin.com/in/ishaansharma01
